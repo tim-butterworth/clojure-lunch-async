@@ -1,0 +1,26 @@
+things that would saturate a threadpool (maybe launch java threads and count vs go blocks and count) - Tim
+
+slackbot http request based thing - Simon
+
+merging async response
+
+some sort of visual type demo
+
+http crawler (parallel) - Simon
+
+quote example from clojure for brave and true - Tim
+
+chat thing if it can be simple enough
+
+search github for projects using core async
+
+see if there is an example problem that we can work through as a group
+see if we can explain the concepts from example problems
+
+
+
+
+
+
+
+quasar or pulsar as another thing to look at
